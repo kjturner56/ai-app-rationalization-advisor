@@ -1,0 +1,9 @@
+source_app_id,target_app_id,dependency_type,dependency_criticality,mapping_last_validated
+APP001,APP011,Inbound API,High,2026-03-20
+APP001,APP004,Historical reporting feed,Medium,2026-03-20
+APP003,APP011,Customer data sync,Medium,2026-03-20
+APP005,APP001,Vendor payment posting,High,2026-03-20
+APP006,APP003,Sales performance extracts,Medium,2026-03-20
+APP008,APP011,Work order integration,High,2026-03-20
+APP012,APP011,Dispatch status updates,High,2026-03-20
+APP009,APP006,Campaign analytics export,Low,2026-03-20

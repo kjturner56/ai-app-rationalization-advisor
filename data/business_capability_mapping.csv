@@ -1,0 +1,13 @@
+app_id,business_process_description,data_classification,regulated_workflow,customer_facing,strategic_program_alignment
+APP001,Monthly close and financial reporting,SOX,Yes,No,Finance Transformation
+APP002,Core HR and employee lifecycle,PII,No,No,HR Digital Core
+APP003,Sales pipeline visibility and forecasting,Confidential,No,Yes,Commercial Excellence
+APP004,Historical finance archive reporting,Confidential,No,No,Legacy Reporting Sunset
+APP005,Requisition and purchase approval workflow,Confidential,No,Yes,Procurement Optimization
+APP006,Customer segmentation and campaign analytics,PII,No,Yes,Growth Analytics
+APP007,"Incident, problem, and change workflow",Internal,No,No,ITSM Excellence
+APP008,Plant maintenance work planning,Operational,No,Yes,Manufacturing Reliability
+APP009,Campaign content publishing,Public,No,Yes,Digital Marketing
+APP010,Contract authoring and storage,Confidential,No,No,Legal Operations
+APP011,B2B file and API exchange,Restricted,No,No,Integration Modernization
+APP012,"Dispatch, route, and field task execution",Operational,No,Yes,Field Productivity

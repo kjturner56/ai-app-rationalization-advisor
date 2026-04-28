@@ -1,0 +1,13 @@
+app_id,security_risk_level,open_vulnerabilities,critical_vulnerabilities,internet_facing,mfa_enabled,sensitive_data_present,assessment_date
+APP001,Medium,14,2,1,Yes,No,2026-03-25
+APP002,Low,5,0,0,No,No,2026-03-25
+APP003,Low,4,0,0,No,No,2026-03-25
+APP004,High,29,4,1,Yes,Yes,2026-03-25
+APP005,Medium,9,1,0,Yes,No,2026-03-25
+APP006,High,18,2,1,Yes,No,2026-03-25
+APP007,Low,6,0,0,Yes,No,2026-03-25
+APP008,Medium,11,1,0,Yes,No,2026-03-25
+APP009,Medium,8,0,0,Yes,Yes,2026-03-25
+APP010,Low,3,0,0,No,No,2026-03-25
+APP011,High,17,2,1,Yes,No,2026-03-25
+APP012,Medium,10,1,0,Yes,No,2026-03-25

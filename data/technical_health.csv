@@ -1,0 +1,13 @@
+app_id,technical_debt_score,stability_score,integration_complexity_score,open_enhancement_backlog,platform_end_of_support_date,duplicate_functionality,replacement_candidate_exists,suggested_technical_posture
+APP001,5,3,4,48,2027-12-31,No,No,Modernize
+APP002,2,4,2,9,2029-12-31,No,No,Retain
+APP003,3,4,2,14,2028-06-30,Yes,No,Consolidate
+APP004,5,2,5,36,2019-07-09,Yes,Yes,Retire
+APP005,3,3,3,18,2027-06-30,Yes,No,Consolidate
+APP006,4,3,3,22,2026-12-31,No,No,Modernize
+APP007,2,5,2,6,2030-12-31,No,No,Retain
+APP008,4,3,4,28,2027-03-31,No,No,Modernize
+APP009,2,4,2,7,2028-10-31,Yes,No,Retain
+APP010,2,4,2,5,2029-12-31,No,No,Retain
+APP011,4,3,4,24,2027-09-30,No,Yes,Modernize
+APP012,3,4,3,11,2028-12-31,No,No,Retain

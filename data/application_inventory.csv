@@ -1,0 +1,13 @@
+app_id,app_name,business_unit,business_capability,business_owner,owner_email,criticality,user_count,hosting_type,lifecycle_status,primary_platform,vendor_support_status,support_tier
+APP001,ERP Core,Finance,Record to Report,Maria Chen,maria.chen@example.com,High,"1,200",On Prem,Aging,SAP ECC,Supported,Tier 1
+APP002,HR Hub,HR,Hire to Retire,James Patel,james.patel@example.com,Medium,430,SaaS,Current,Workday,Supported,Tier 2
+APP003,SalesOps Tracker,Sales,Pipeline Management,Nina Brooks,nina.brooks@example.com,Medium,180,Cloud,Current,Custom Python App,Supported,Tier 2
+APP004,LegacyDB,Finance,Archive Reporting,David Ross,david.ross@example.com,Low,25,On Prem,End of Life,SQL Server 2008,Ended,Tier 3
+APP005,Procurement Portal,Operations,Source to Pay,Elaine Turner,elaine.turner@example.com,Medium,220,Hybrid,Current,SharePoint,Limited,Tier 2
+APP006,Customer Analytics,Marketing,Customer Insights,Kevin Moore,kevin.moore@example.com,High,310,Cloud,Aging,Tableau Server,Supported,Tier 2
+APP007,ITSM Portal,IT,Incident Management,Anika Shah,anika.shah@example.com,High,950,SaaS,Current,ServiceNow,Supported,Tier 1
+APP008,Plant Maintenance,Operations,Maintenance Planning,Leo Martin,leo.martin@example.com,High,275,On Prem,Aging,Maximo,Supported,Tier 1
+APP009,Marketing Portal,Marketing,Campaign Publishing,Sara Lopez,sara.lopez@example.com,Low,90,Cloud,Current,WordPress,Supported,Tier 3
+APP010,Contract Repository,Legal,Contract Management,Olivia Reed,olivia.reed@example.com,Medium,145,SaaS,Current,Ironclad,Supported,Tier 2
+APP011,Data Exchange Gateway,IT,Partner Data Integration,Victor Hall,victor.hall@example.com,High,120,Hybrid,Aging,MuleSoft,Supported,Tier 1
+APP012,Field Service Mobile,Operations,Field Dispatch,Priya Nair,priya.nair@example.com,High,340,Cloud,Current,Custom Mobile App,Supported,Tier 1
