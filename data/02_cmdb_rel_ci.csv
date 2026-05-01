@@ -1,0 +1,19 @@
+sys_id,parent,child,type,u_dependency_criticality,u_integration_type,u_data_flow_direction
+REL001,APP001,APP006,Sends data to::Receives data from,High,Batch ETL,Unidirectional
+REL002,APP001,APP007,Connects to::Connected by,High,Database,Bidirectional
+REL003,APP001,APP003,Sends data to::Receives data from,Medium,REST API,Unidirectional
+REL004,APP002,APP001,Sends data to::Receives data from,High,API Integration,Unidirectional
+REL005,APP002,APP015,Sends data to::Receives data from,High,Batch ETL,Unidirectional
+REL006,APP003,APP008,Sends data to::Receives data from,Medium,REST API,Unidirectional
+REL007,APP003,APP005,Sends data to::Receives data from,Medium,REST API,Bidirectional
+REL008,APP005,APP001,Connects to::Connected by,High,REST API,Unidirectional
+REL009,APP005,APP009,Sends data to::Receives data from,Low,REST API,Bidirectional
+REL010,APP006,APP012,Sends data to::Receives data from,Medium,Batch ETL,Unidirectional
+REL011,APP009,APP013,Connects to::Connected by,High,LDAP/SSO,Bidirectional
+REL012,APP010,APP001,Sends data to::Receives data from,High,Database,Unidirectional
+REL013,APP010,APP004,Sends data to::Receives data from,Medium,Database Query,Unidirectional
+REL014,APP011,APP007,Connects to::Connected by,Medium,Database,Unidirectional
+REL015,APP013,APP002,Connects to::Connected by,High,LDAP/SSO,Bidirectional
+REL016,APP001,APP004,Sends data to::Receives data from,Medium,Database,Bidirectional
+REL017,APP014,APP001,Sends data to::Receives data from,Low,REST API,Unidirectional
+REL018,APP008,APP005,Sends data to::Receives data from,Low,REST API,Unidirectional

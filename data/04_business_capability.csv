@@ -1,0 +1,20 @@
+sys_id,name,description,business_application,u_business_process,u_data_classification,u_regulated_workflow,u_customer_facing,u_capability_level,u_strategic_importance
+CAP001,Financial Reporting & Close,Month-end and year-end financial close and statutory reporting,APP001,Financial Management,Confidential,true,false,3,High
+CAP002,General Ledger Management,Core GL transactions accounts payable receivable and chart of accounts,APP001,Financial Management,Confidential,true,false,3,High
+CAP003,Talent Acquisition & Onboarding,Recruitment candidate tracking offer management and new hire onboarding,APP002,Human Capital Management,Internal,false,false,3,Medium
+CAP004,Payroll Processing,Employee payroll computation tax withholding and direct deposit,APP002,Human Capital Management,Restricted,true,false,3,High
+CAP005,Sales Pipeline Management,Lead tracking opportunity management forecasting and quota attainment,APP003,Revenue Generation,Internal,false,false,2,High
+CAP006,CRM Integration,Synchronization of customer and opportunity data across sales platforms,APP003,Customer Relationship Mgmt,Internal,false,true,2,Medium
+CAP007,Financial Data Archiving,Long-term storage and retrieval of historical financial transaction records,APP004,Financial Management,Confidential,true,false,1,Low
+CAP008,Customer Self-Service,Customer account management service request submission and status tracking,APP005,Customer Experience,Internal,false,true,3,High
+CAP009,Account Management Portal,Authenticated customer portal for account preferences billing and support,APP005,Customer Experience,Internal,false,true,3,High
+CAP010,Enterprise Analytics & BI,Cross-functional data aggregation and executive business intelligence reporting,APP006,Analytics & Insights,Internal,false,false,2,High
+CAP011,Procurement & Purchasing,Purchase requisitions vendor management PO approval and spend tracking,APP007,Supply Chain Management,Internal,false,false,2,Medium
+CAP012,Digital Marketing Automation,Email marketing campaign management lead nurture and marketing attribution,APP008,Marketing & Brand,Internal,false,false,3,Medium
+CAP013,IT Service Management,Incident problem change request fulfillment and CMDB management,APP009,IT Operations,Internal,false,false,3,High
+CAP014,Regulatory Compliance Tracking,Audit trail management regulatory obligation tracking and compliance reporting,APP010,Risk & Compliance,Confidential,true,false,2,High
+CAP015,Field Service Scheduling,Field technician dispatch scheduling work order management and completion tracking,APP011,Service Operations,Internal,false,true,2,Medium
+CAP016,Operational Reporting,Operational dashboards KPIs and departmental performance reporting,APP012,Analytics & Insights,Internal,false,false,2,Medium
+CAP017,Privileged Access Management,Privileged account vaulting session monitoring and credential rotation,APP013,IT Security,Restricted,true,false,3,High
+CAP018,Contract Lifecycle Management,Contract creation redline negotiation approval signature and obligation tracking,APP014,Legal & Compliance,Confidential,true,false,1,Medium
+CAP019,Legacy Payroll Processing,ADP-based payroll processing superseded by Workday integration,APP015,Human Capital Management,Restricted,true,false,1,Low

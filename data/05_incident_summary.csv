@@ -1,0 +1,16 @@
+sys_id,short_description,cmdb_ci,category,impact,urgency,priority,state,opened_at,closed_at,u_app_id,u_incident_volume_12m,u_sev1_sev2_count,u_major_outages_12m,u_incident_trend,u_mttr_hours,u_availability_pct
+INC_SUM001,Incident Summary - ERP Core (APP001),APP001,Software,2,2,2,7,2024-01-01,2024-11-15,APP001,87,12,3,Increasing,14.2,99.1
+INC_SUM002,Incident Summary - HR Hub (APP002),APP002,Software,2,3,3,7,2024-01-01,2024-11-15,APP002,18,1,0,Stable,2.1,99.9
+INC_SUM003,Incident Summary - SalesOps Tracker (APP003),APP003,Software,3,3,3,7,2024-01-01,2024-11-15,APP003,42,4,1,Increasing,6.8,99.5
+INC_SUM004,Incident Summary - LegacyDB (APP004),APP004,Software,2,2,2,7,2024-01-01,2024-11-15,APP004,134,22,7,Increasing,28.5,96.8
+INC_SUM005,Incident Summary - CustomerPortal (APP005),APP005,Software,1,2,2,7,2024-01-01,2024-11-15,APP005,31,3,1,Stable,3.5,99.7
+INC_SUM006,Incident Summary - DataWarehouse (APP006),APP006,Software,2,2,2,7,2024-01-01,2024-11-15,APP006,58,6,2,Increasing,8.9,99.2
+INC_SUM007,Incident Summary - ProcureTrack (APP007),APP007,Software,2,2,2,7,2024-01-01,2024-11-15,APP007,96,14,4,Increasing,22.1,97.5
+INC_SUM008,Incident Summary - MarketingHub (APP008),APP008,Software,3,3,3,7,2024-01-01,2024-11-15,APP008,9,0,0,Decreasing,1.2,100.0
+INC_SUM009,Incident Summary - ITSMPlatform (APP009),APP009,Software,2,2,2,7,2024-01-01,2024-11-15,APP009,14,0,0,Stable,1.8,99.98
+INC_SUM010,Incident Summary - ComplianceTracker (APP010),APP010,Software,2,2,2,7,2024-01-01,2024-11-15,APP010,53,7,2,Increasing,9.4,98.9
+INC_SUM011,Incident Summary - FieldServiceMgr (APP011),APP011,Software,2,2,2,7,2024-01-01,2024-11-15,APP011,108,18,5,Increasing,25.3,97.1
+INC_SUM012,Incident Summary - BIReportingSuite (APP012),APP012,Software,3,2,3,7,2024-01-01,2024-11-15,APP012,47,5,1,Stable,7.2,99.3
+INC_SUM013,Incident Summary - IdentityVault (APP013),APP013,Software,1,1,1,7,2024-01-01,2024-11-15,APP013,11,0,0,Decreasing,1.5,99.99
+INC_SUM014,Incident Summary - ContractMgr (APP014),APP014,Software,3,3,3,7,2024-01-01,2024-11-15,APP014,6,0,0,Decreasing,0.8,100.0
+INC_SUM015,Incident Summary - LegacyPayroll (APP015),APP015,Software,2,1,2,7,2024-01-01,2024-11-15,APP015,122,19,6,Increasing,31.0,96.2

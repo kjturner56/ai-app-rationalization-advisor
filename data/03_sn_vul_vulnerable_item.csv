@@ -1,0 +1,16 @@
+sys_id,source,cmdb_ci,vulnerability,severity,state,first_found,last_found,u_security_risk_level,u_open_vulnerabilities,u_critical_vulnerabilities,u_internet_facing,u_last_pen_test_date,u_compliance_exceptions
+VULN001,Security Scan,APP001,CVE-2023-0044 SAP ECC RCE Vulnerability,2,3,2023-06-15,2024-11-01,High,23,4,false,2024-03-15,2
+VULN002,Security Scan,APP004,MS SQL Server 2008 EOL - Multiple Unpatched CVEs,1,1,2022-01-10,2024-11-15,Critical,47,12,false,2023-09-01,5
+VULN003,Security Scan,APP007,Oracle Forms Session Hijacking Vulnerability,2,3,2023-09-20,2024-10-30,High,18,3,false,2024-02-28,1
+VULN004,Security Scan,APP003,Python Dependency CVE-2024-1234 Remote Code Execution,2,3,2024-03-05,2024-11-10,Medium,8,1,true,2024-08-01,0
+VULN005,Security Scan,APP005,Web App XSS Vulnerability in Customer Portal,2,1,2024-07-22,2024-11-12,Medium,5,0,true,2024-09-15,0
+VULN006,Security Scan,APP006,Teradata DB Privilege Escalation - Unpatched,2,3,2023-11-30,2024-11-05,High,15,2,false,2024-01-20,3
+VULN007,Security Scan,APP010,.NET 4.7 Framework Vulnerability - Deserialization Attack,2,3,2024-02-14,2024-11-08,High,11,2,false,2024-06-30,1
+VULN008,Security Scan,APP011,Java EE 6 EOL - Log4j and Other Critical CVEs,1,1,2022-12-01,2024-11-14,Critical,38,9,false,2023-06-15,4
+VULN009,Security Scan,APP015,ADP PC Payroll Outdated Encryption Protocols,2,1,2023-04-10,2024-10-20,High,14,3,false,2023-12-01,2
+VULN010,Security Scan,APP012,MicroStrategy 2021 Known Authentication Bypass,3,3,2024-05-01,2024-11-03,Medium,6,0,false,2024-04-10,0
+VULN011,Security Scan,APP002,Workday SaaS - No On-Prem Vulnerabilities (Vendor Managed),4,5,2024-01-01,2024-11-15,Low,0,0,false,2024-10-01,0
+VULN012,Security Scan,APP008,Salesforce Marketing Cloud - Vendor Managed,4,5,2024-01-01,2024-11-15,Low,0,0,false,2024-10-01,0
+VULN013,Security Scan,APP009,ServiceNow - Vendor Managed SaaS,4,5,2024-01-01,2024-11-15,Low,0,0,false,2024-10-01,0
+VULN014,Security Scan,APP013,CyberArk PAM - Current with Patches,4,5,2024-06-01,2024-11-15,Low,2,0,false,2024-07-15,0
+VULN015,Security Scan,APP014,Ironclad - Vendor Managed SaaS,4,5,2024-01-01,2024-11-15,Low,0,0,false,2024-10-01,0
