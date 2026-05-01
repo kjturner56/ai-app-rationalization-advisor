@@ -98,14 +98,14 @@ with st.sidebar:
 
 # ── Route ──────────────────────────────────────────────────────────────────────
 if page_key == "overview":
-    from pages.p1_overview import render; render()
+    from screens.p1_overview import render; render()
 elif page_key == "analysis":
-    from pages.p2_analysis import render; render()
+    from screens.p2_analysis import render; render()
 elif page_key == "validation":
-    from pages.p3_validation import render; render()
+    from screens.p3_validation import render; render()
 elif page_key == "audit":
-    from pages.p4_audit import render; render()
+    from screens.p4_audit import render; render()
 elif page_key == "governance":
-    from pages.p5_governance import render; render()
+    from screens.p5_governance import render; render()
 elif page_key == "search":
-    from pages.p6_search import render; render()
+    from screens.p6_search import render; render()
